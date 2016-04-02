@@ -3,4 +3,4 @@
 ##二级标题
 
 [链接](http://www.github.com/chenghengchao)
-![](https://github.com/chenghengchao/TestMarkDown/github.jpg)
+![](https://github.com/chenghengchao/TestMarkDown/blob/master/github.jpg)
